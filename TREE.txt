@@ -1,0 +1,28 @@
+TREE:
+
+1. Multiple ttys
+    > R/W image
+        > Improved initramfs
+            > Auto-updatable repo downloader
+                > Split Makefile
+
+    > Install NANO-x
+        > Install Libraries
+            > Configure buildroot
+                > Add buildroot menuconfig into main
+
+Required applications (sudo apt)
+================================
+-make
+-qemu
+-curl
+-git
+-bash & sh
+-unzip
+
+MICROWINDOWS:
+
+-clang
+-libsdl2-dev
+-libbz2-dev
+-libfreetype6-dev
