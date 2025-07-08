@@ -79,7 +79,7 @@ main:
 	$(Q)cp "$(src_dir_linux)" "$(bin_dir_tmp_squashfs)$(sys_dir_linux)" $(OUT)
 #  -- Modules --  #
 	$(call heading, Adding modules)
-	$(S) clone "https://github.com/MarkedRain/kernel-modules" "$(src_dir_modules)"
+	$(S) clone "https://github.com/Stellcel-Remeny/mrain-kernel-modules" "$(src_dir_modules)"
 	$(call sub, Copying modules)
 	$(Q)cp -r "$(src_dir_modules)/modules" "$(bin_dir_tmp_squashfs)/usr/lib"
 #  -- Text files --  #
