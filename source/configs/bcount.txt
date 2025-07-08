@@ -5,7 +5,9 @@
 # 23-6-2024 21:22
 #
 
-latest_next=142
+latest_next=144
+143 - 2025-04-24 20:57:07 : Changed hostname
+142 - 2025-04-24 20:49:29 : Re-added coreutils
 141 - 2025-04-22 10:07:53 : Login text changed
 140 - 2025-04-21 17:41:34 : DRM_KMS_HELPER enabled
 139 - 2025-04-21 16:46:44 : Kernel simplefb removed
