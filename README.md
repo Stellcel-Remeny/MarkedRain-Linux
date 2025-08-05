@@ -23,3 +23,13 @@ Install dependencies for 'make' & 'menuconfig', then run "make menuconfig". Conf
 View "docs/building.md" for other make options.
 
 ![Compiling](media/preview3.gif "MarkedRain compiling preview")
+
+## Goals & Future plans!
+
+Here's where I put some plans for the OS.
+- Goal: Easy to use OS for windows users looking to switch to linux
+- Be lightweight.
+- Add a PE installer (bootable) & an installer.exe (for windows users)
+- Make the installer an interactive Ren'Py game (for beginners), and a Windows XP TUI-style setup (for advanced users)
+- Try to make the user feel at ease
+- Excellent compatibility with Windows apps (maybe run a tiny windows along with the OS?)
